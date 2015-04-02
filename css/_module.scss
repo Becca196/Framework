@@ -5,4 +5,25 @@
     background-size: cover;
     height: 50%;
     height: 50vh;
+    text-align: center;
+}
+
+.banner-title {
+    background-color: #fff;
+    border-radius: 8px;
+    color: #262626;
+    display: inline-block;
+    line-height: 1;
+    padding: 8px;
+}
+
+
+.banner-title h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+.banner-title h2 {
+    font-size: 1.25em;
+    margin: 0;
 }
