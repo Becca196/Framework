@@ -4,9 +4,12 @@
 @import "vendor/nav";
 @import "vendor/lightbox";
 @import "vendor/carousel";
+@import "vendor/modal";
+//@import "vendor/collapse";
+@import "normalize";
+@import "vendor/collapse";
 
 //Your Styles
-@import "normalize";
 @import "globals";
 @import "base";
 @import "layout";
